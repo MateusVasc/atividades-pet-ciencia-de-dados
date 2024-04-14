@@ -1,2 +1,2 @@
-# atividades-pet-ci-ncia-de-dados
+# atividades-pet-ciencia-de-dados
 Repositório para as atividades do projeto PET para ciência de dados.
